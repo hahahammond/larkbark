@@ -12,7 +12,7 @@ section,
   word-wrap: break-word; }
 
 a.mbr-iconfont:hover {
-  text-decoration: none; }
+  text-decoration-style: wavy; }
 
 .article .lead p, .article .lead ul, .article .lead ol, .article .lead pre, .article .lead blockquote {
   margin-bottom: 0; }

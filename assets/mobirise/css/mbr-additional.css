@@ -508,13 +508,11 @@ a.text-danger:hover,
 a.text-danger:focus {
   color: #7a6e45 !important;
 }
-a.text-white:hover,
-a.text-white:focus {
+a.text-white:hover {
   color: #b3b3b3 !important;
 }
-a.text-black:hover,
-a.text-black:focus {
-  color: #4d4d4d !important;
+a.text-black:hover {
+  color: #fff !important;
 }
 .alert-success {
   background-color: #70c770;
@@ -1338,13 +1336,13 @@ body {
   min-height: 100vh;
 }
 .cid-qzaptlnGSr .navbar {
-  background: #767676;
+  background: #bfbfbf;
   transition: none;
   min-height: 77px;
   padding: .5rem 0;
 }
 .cid-qzaptlnGSr .navbar-dropdown.bg-color.transparent.opened {
-  background: #767676;
+  background: #bfbfbf;
 }
 .cid-qzaptlnGSr a {
   font-style: normal;
@@ -1426,7 +1424,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qzaptlnGSr .dropdown .dropdown-menu {
-  background: #767676;
+  background: #bfbfbf;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -1807,7 +1805,7 @@ body {
   font-size: 32px;
   color: #232323;
 }
-.cid-qzaqxkvxXG .social-list a:focus {
+.cid-qzaqxkvxXG .social-list a:hover {
   text-decoration: none;
 }
 .cid-qzaqwpHEDD {
